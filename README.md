@@ -3,7 +3,7 @@ Deep Learning 1 at TU Berlin in WS 2022/23
 
 ## Lecturers
 | Trainer |   |   
-|---|---|---|---|---|
+|---|---|
 | Grégoire Montavon  | gregoire.montavon@tu-berlin.de  |   
 | Kristof Schütt  |  |
 
